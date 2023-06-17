@@ -9,8 +9,15 @@ Polecenie:
   bash zadanie1.sh
 ```
 
-Zrzuty ekranów:
+Zrzut ekranu:
 ![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/c3062a5d-bc4c-464e-b7ae-2c811e955791)
+
+Polecenie:
+```bash
+   docker push 95605/95605:1.0
+```
+
+Zrzut ekranu:
 ![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/4ed54336-dd66-4049-a470-2a3628790ea4)
 
 
