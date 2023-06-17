@@ -1,13 +1,17 @@
 # TCH_Zadanie1
 Technologie Chmurowe: Zadanie 1
 
-## Projekt
-Potrzebny jest zainstalowany docker, jq, node, npm.
+## Zbudowanie i uruchomienie
+Do zbudowania i uruchomieania potrzebny jest zainstalowany docker, jq, node, npm.
 
 Polecenie:
 ```bash
   bash zadanie1.sh
 ```
+
+Zrzut ekranu:
+![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/c3062a5d-bc4c-464e-b7ae-2c811e955791)
+
 
 ## Polecenia niezbędne do:
 a. zbudowania opracowanego obrazu kontenera
