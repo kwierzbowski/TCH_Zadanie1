@@ -1,10 +1,10 @@
-# Zadanie 1 
+# TCH_Zadanie1
 Technologie Chmurowe: Zadanie 1
 
-## Uruchomienie
-Do uruchomienia potrzebny jest zainstalowany docker, jq, node, npm.
+## Projekt
+Potrzebny jest zainstalowany docker, jq, node, npm.
 
-Polecenie do uruchomienia:
+Polecenie:
 ```bash
   bash zadanie1.sh
 ```
