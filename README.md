@@ -2,7 +2,7 @@
 Technologie Chmurowe: Zadanie 1
 
 ## Zbudowanie i uruchomienie
-Do zbudowania i uruchomieania potrzebny jest zainstalowany docker, jq, node, npm.
+Do zbudowania i uruchomienia potrzebny jest zainstalowany docker, jq, node, npm.
 
 Polecenie:
 ```bash
