@@ -18,6 +18,7 @@ Polecenie:
 ```
 
 Zrzut ekranu:
+
 ![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/4ed54336-dd66-4049-a470-2a3628790ea4)
 
 
