@@ -9,8 +9,9 @@ Polecenie:
   bash zadanie1.sh
 ```
 
-Zrzut ekranu:
+Zrzuty ekranów:
 ![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/c3062a5d-bc4c-464e-b7ae-2c811e955791)
+![image](https://github.com/kwierzbowski/TCH_Zadanie1/assets/83925877/4ed54336-dd66-4049-a470-2a3628790ea4)
 
 
 ## Polecenia niezbędne do:
